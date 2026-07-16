@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-🌸 Communication Patch 🌸
+🌸 Friendship Patch 🌸
 </h1>
 
 <p align="center">
@@ -13,7 +13,9 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B;Looking+for+my+projects%3F;Oops...;This+isn't+a+portfolio+update...;%F0%9F%8C%B8+It's+for+my+favorite+teammate+%F0%9F%8C%B8;Please+scroll+down+%F0%9F%98%8A" />
+<i>Please wait while the repository finishes loading...</i>
+
+████████████████████ 100%
 </p>
 
 ---
@@ -22,7 +24,7 @@
 ✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
 </p>
 
-<h2 align="center">📦 Repository Structure</h2>
+<h2 align="center"> Repository Structure</h2>
 
 ```text
 communication-patch/
@@ -42,6 +44,17 @@ This one just happens to be about fixing a communication bug. 🌸</i>
 
 ---
 
+⚠ Issue Detected
+
+Category:
+Communication
+
+Severity:
+High
+
+Status:
+Needs Attention
+
 <p align="center">
 
 ![](https://img.shields.io/badge/Status-Waiting%20for%20Review-ff69b4?style=for-the-badge)
@@ -51,3 +64,38 @@ This one just happens to be about fixing a communication bug. 🌸</i>
 ![](https://img.shields.io/badge/Bug-Communication-orange?style=for-the-badge)
 
 </p>
+
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+ XPForge System
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=700&pause=500&color=7CFC00&center=true&vCenter=true&width=900&lines=XPForge+System+Launching...;Loading+Player+Profile...;Loading+Teamwork+Module...;Scanning+Recent+Activity...;Communication+Conflict+Detected...;Applying+Penalty...;-150+Teamwork+XP;Developer+Note+Added." />
+</p>
+<h2 align="center">🎮 XPForge Event Log</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=800&pause=500&color=7CFC00&center=true&vCenter=true&width=900&lines=Adding+New+Quest...;Quest+Created+%E2%9C%85;Accepting+Responsibility...;%E2%9C%85+Responsibility+Accepted;Calculating+Rewards...;+%E2%88%9E+Respect+XP;Patch+Applied+Successfully." />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Quest-Rebuild%20Trust-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Fault-Accepted-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Reward-%E2%88%9E%20Respect%20XP-ff69b4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Status-Patch%20Applied-brightgreen?style=for-the-badge"/>
+
+</p>
+
+
+
+
+
+
+

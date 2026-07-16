@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Communication Patch Banner">
+  <img src="./file_0000000063887206abdd1b63c12aea29.png" width="100%" alt="Communication Patch Banner">
 </p>
 
 <h1 align="center">
